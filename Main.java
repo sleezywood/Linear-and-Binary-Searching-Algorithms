@@ -1,9 +1,6 @@
 /*
 Main.java
-ICS4U - Solving Linear and Binary Search Questions
 Sudhanya Golla
-Created July 10th, 2024
-Last Modified July 10th 2024
 */
 
 // Java setup
@@ -265,5 +262,6 @@ class Main {
 
 		return false;
 	}
+
 
 }
